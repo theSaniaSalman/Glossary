@@ -1,0 +1,28 @@
+#g1{
+    text-indent: 420px;
+    color: red;
+    font-size: 70px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px black,3px 3px black;
+}
+.alphabets{
+    text-indent: 350px;
+}
+h2{
+    color:red;
+    margin-top:50px;
+}
+.para{
+    text-indent:50px;
+    line-height:1pt;
+   
+}
+.term{
+    text-indent:20px;
+    background-color: gainsboro;
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px grey;
+    margin-bottom:0px;
+}
